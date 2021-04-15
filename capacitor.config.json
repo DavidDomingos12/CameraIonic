@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "app_para_abrir_camera",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

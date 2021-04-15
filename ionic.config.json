@@ -1,0 +1,7 @@
+{
+  "name": "app_para_abrir_camera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
